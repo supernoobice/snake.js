@@ -1,3 +1,3 @@
 Snake.js
 
-Is a browser HTML5 Browser based game.
+Is an HTML5 game made in HTML, CSS and Javascript.
