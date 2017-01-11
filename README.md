@@ -1,3 +1,5 @@
+#Snake JS
+
 Is a browser HTML5 Browser based game.
 
 Issues:
